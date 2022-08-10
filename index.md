@@ -19,7 +19,7 @@ Syntax highlighted code block
 - List
 
 1. Numbered
-2. List
+2. Listoi
 
 **Bold** and _Italic_ and `Code` text
 (https://joseeliodoro.github.io/landing-page/style/index.html)
